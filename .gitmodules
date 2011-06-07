@@ -1,0 +1,30 @@
+[submodule "modules/database"]
+	path = modules/database
+	url = git@github.com:crowdfavorite/kohana-database.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = git@github.com:crowdfavorite/kohana-cache.git
+[submodule "modules/email"]
+	path = modules/email
+	url = git@github.com:crowdfavorite/kohana-email.git
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = git@github.com:crowdfavorite/kohana-unittest.git
+[submodule "modules/kohana-archive"]
+	path = modules/kohana-archive
+	url = git@github.com:crowdfavorite/kohana-archive
+[submodule "modules/archive"]
+	path = modules/archive
+	url = git@github.com:crowdfavorite/kohana-archive.git
+[submodule "modules/userguide"]
+	path = modules/userguide
+	url = git@github.com:crowdfavorite/kohana-userguide.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = git@github.com:crowdfavorite/kohana-orm.git
+[submodule "modules/image"]
+	path = modules/image
+	url = git@github.com:crowdfavorite/kohana-image.git
+[submodule "system"]
+	path = system
+	url = git@github.com:crowdfavorite/kohana-core.git
