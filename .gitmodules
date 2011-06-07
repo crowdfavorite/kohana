@@ -13,9 +13,6 @@
 [submodule "modules/kohana-archive"]
 	path = modules/kohana-archive
 	url = git@github.com:crowdfavorite/kohana-archive
-[submodule "modules/archive"]
-	path = modules/archive
-	url = git@github.com:crowdfavorite/kohana-archive.git
 [submodule "modules/userguide"]
 	path = modules/userguide
 	url = git@github.com:crowdfavorite/kohana-userguide.git
